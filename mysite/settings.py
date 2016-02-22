@@ -74,10 +74,11 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
 	'default': {
+		'TEST_NAME': 'wbubicz$test_wbubicz$djangogirls',
 		'ENGINE': 'django.db.backends.mysql',
 		'NAME': 'wbubicz$djangogirls',
-		'USER': 'root',
-		'PASSWORD': 'password',
+		'USER': 'wbubicz',
+		'PASSWORD': 'pamysqlpass',
 		'HOST': 'localhost',
 		'PORT': '',
 	}
