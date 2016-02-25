@@ -83,6 +83,17 @@ DATABASES = {
 		'PORT': '3306',
 	}
 }
+# DATABASES = {
+# 	'default': {
+# 		'TEST_NAME': 'wbubicz$test_wbubicz$djangogirls',
+# 		'ENGINE': 'django.db.backends.mysql',
+# 		'NAME': 'wbubicz$djangogirls',
+# 		'USER': 'root',
+# 		'PASSWORD': 'password',
+# 		'HOST': 'localhost',
+# 		'PORT': '',
+# 	}
+# }
 
 # Password validation
 # https://docs.djangoproject.com/en/1.9/ref/settings/#auth-password-validators
