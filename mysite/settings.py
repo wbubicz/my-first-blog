@@ -79,7 +79,7 @@ DATABASES = {
 		'NAME': 'wbubicz$djangogirls',
 		'USER': 'wbubicz',
 		'PASSWORD': 'pamysqlpass',
-		'HOST': 'mysql.server',
+		'HOST': 'wbubicz.mysql.pythonanywhere-services.com',
 		'PORT': '3306',
 	}
 }
